@@ -34,7 +34,7 @@
 
   Most ofter most motors come with low quality bearings
 
-  [Motors (2306 2555KV)]([https://www.aliexpress.us/item/3256804448550440.html?aff_fcid=d0f328c1fb634a7e8822476a625718dd-1698264579441-03867-_Dl3tc4b&tt=CPS_NORMAL&aff_fsk=_Dl3tc4b&aff_platform=shareComponent-detail&sk=_Dl3tc4b&aff_trace_key=d0f328c1fb634a7e8822476a625718dd-1698264579441-03867-_Dl3tc4b&terminal_id=2d4f1d18014545ea9b4db8b1e8f0c190&afSmartRedirect=y&gatewayAdapt=glo2usa4itemAdapt](https://www.aliexpress.us/item/3256804448550440.html?aff_fcid=d0f328c1fb634a7e8822476a625718dd-1698264579441-03867-_Dl3tc4b&tt=CPS_NORMAL&aff_fsk=_Dl3tc4b&aff_platform=shareComponent-detail&sk=_Dl3tc4b&aff_trace_key=d0f328c1fb634a7e8822476a625718dd-1698264579441-03867-_Dl3tc4b&terminal_id=2d4f1d18014545ea9b4db8b1e8f0c190&afSmartRedirect=y&gatewayAdapt=glo2usa4itemAdapt)https://www.aliexpress.us/item/3256804448550440.html?aff_fcid=d0f328c1fb634a7e8822476a625718dd-1698264579441-03867-_Dl3tc4b&tt=CPS_NORMAL&aff_fsk=_Dl3tc4b&aff_platform=shareComponent-detail&sk=_Dl3tc4b&aff_trace_key=d0f328c1fb634a7e8822476a625718dd-1698264579441-03867-_Dl3tc4b&terminal_id=2d4f1d18014545ea9b4db8b1e8f0c190&afSmartRedirect=y&gatewayAdapt=glo2usa4itemAdapt)
+  [Motors (2306 2555KV)](https://www.aliexpress.us/item/3256804448550440.html?aff_fcid=8eebaad1fca348819ce8390061ff89d0-1698265407032-07186-_Dl3tc4b&tt=CPS_NORMAL&aff_fsk=_Dl3tc4b&aff_platform=shareComponent-detail&sk=_Dl3tc4b&aff_trace_key=8eebaad1fca348819ce8390061ff89d0-1698265407032-07186-_Dl3tc4b&terminal_id=2d4f1d18014545ea9b4db8b1e8f0c190&afSmartRedirect=y&gatewayAdapt=glo2usa4itemAdapt)
 
   With 4s Battery
 * [How to Build a Cool & Cheap 3D Printed Mini Drone](https://www.youtube.com/watch?v=gpKcrYcMFKM)
