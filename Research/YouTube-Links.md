@@ -38,3 +38,7 @@
 
   With 4s Battery
 * [How to Build a Cool & Cheap 3D Printed Mini Drone](https://www.youtube.com/watch?v=gpKcrYcMFKM)
+
+
+
+https://www.tytorobotics.com/blogs/articles/what-is-an-esc-how-does-an-esc-work
