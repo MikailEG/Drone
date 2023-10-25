@@ -36,5 +36,13 @@
 
   [Motors (2306 2555KV)](https://www.aliexpress.us/item/3256804448550440.html?aff_fcid=8eebaad1fca348819ce8390061ff89d0-1698265407032-07186-_Dl3tc4b&tt=CPS_NORMAL&aff_fsk=_Dl3tc4b&aff_platform=shareComponent-detail&sk=_Dl3tc4b&aff_trace_key=8eebaad1fca348819ce8390061ff89d0-1698265407032-07186-_Dl3tc4b&terminal_id=2d4f1d18014545ea9b4db8b1e8f0c190&afSmartRedirect=y&gatewayAdapt=glo2usa4itemAdapt)
 
-  With 4s Battery
+  With 4s Battery and given KV rating average RPM: 37814
+  LOOK AT RPM THRUST GRAPH IN THE PREVIOUS [VIDEO](https://www.youtube.com/watch?v=3dArEoLOvzI)
+  LOOK AT MOTOR DATA SHEET
+  LOOK INTO PROPELLER SIZES
+  
+
+
+
+
 * [How to Build a Cool & Cheap 3D Printed Mini Drone](https://www.youtube.com/watch?v=gpKcrYcMFKM)
