@@ -1,3 +1,4 @@
+# ["The Idiot's Guide to Making a DIY Drone! (I am the Idiot)"](https://www.youtube.com/watch?v=DeSDjjicGWY&ab_channel=GreatScott%21)
  Standard Drones
   Slow and controlled for beautiful recordings
   First Person View (FPV) Drones
