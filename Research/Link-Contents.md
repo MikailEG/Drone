@@ -1,14 +1,12 @@
 # ["The Idiot's Guide to Making a DIY Drone! (I am the Idiot)"](https://www.youtube.com/watch?v=DeSDjjicGWY&ab_channel=GreatScott%21)
- Standard Drones
-  Slow and controlled for beautiful recordings
-  First Person View (FPV) Drones
-  See what the drone sees
-  Moves way faster through the air
-  Capture unique footage with Go-Pro
-
-  Drone market overflows with different hardware, communication protocols, and software
-
-  Parts needed for a drone
+* Standard Drones
+* Slow and controlled for beautiful recordings
+* First Person View (FPV) Drones
+* See what the drone sees
+* Moves way faster through the air
+* Capture unique footage with Go-Pro
+* Drone market overflows with different hardware, communication protocols, and software
+## Parts needed for a drone
   Frame
   Motors with propellers (create upward thrust while spinning)
   Battery
